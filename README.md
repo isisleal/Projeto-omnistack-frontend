@@ -1,3 +1,8 @@
+Front-end de aplicação desenvolvida a partir de orientação passo a passo de Diego Fernandes na Semana OmniStack da Rocketseat - aula "Construindo a interface web". O back-end da aplicação encontra-se no repositório "Projeto-omnistack.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
