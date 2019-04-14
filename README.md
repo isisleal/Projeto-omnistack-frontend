@@ -1,4 +1,4 @@
-Front-end de aplicação desenvolvida a partir de orientação passo a passo de Diego Fernandes na Semana OmniStack da Rocketseat - aula "Construindo a interface web". O back-end da aplicação encontra-se no repositório "Projeto-omnistack.
+Front-end de aplicação desenvolvida a partir de orientação passo a passo de Diego Fernandes na Semana OmniStack da Rocketseat - aula "Construindo a interface web". O back-end da aplicação encontra-se no repositório "Projeto-omnistack-backend".
 
 
 
